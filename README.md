@@ -1,16 +1,16 @@
-# Description  
+## Description  
 Two React apps that use the same logic but have different designs.
 
-# Install requirements
+## Install requirements
     npm i 
-# Run the app
+## Run the app
     npm start
 
 
-# Designed-layout
+## Designed-layout
 ![Preview Image](https://i.imgur.com/UfZRq97.png)
 
-# Basic-layout
+## Basic-layout
 ![Preview Image](https://i.imgur.com/l3TW8g1.png)
 
 
