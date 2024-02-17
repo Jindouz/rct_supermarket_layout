@@ -1,4 +1,4 @@
-# description  
+# Description  
 Two React apps that use the same logic but have different designs.
 
 # Install requirements
